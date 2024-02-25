@@ -1,1 +1,1 @@
-# MultiplicationTable_App
+ランダム九九Androidアプリ
